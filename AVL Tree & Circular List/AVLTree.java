@@ -446,11 +446,6 @@ public class AVLTree {
     /**
      * public class AVLNode
      * <p>
-     * If you wish to implement classes other than AVLTree
-     * (for example AVLNode), do it in this file, not in
-     * another file.
-     * This class can and must be modified.
-     * (It must implement IAVLNode)
      */
     public class AVLNode implements IAVLNode {
         private int key;
